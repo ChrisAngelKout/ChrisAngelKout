@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChrisAngelKout
+- <h1> Hey there! I'm ChrisAngelKout 👋 </h1>
 - 👀 I’m interested in Bioengineering 
 - 🌱 I’m currently learning java and unity
 - 💞️ I’m looking to collaborate on ...
